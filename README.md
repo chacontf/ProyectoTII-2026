@@ -1,3 +1,5 @@
 # ProyectoTII-2026
 
-Integrantes: 
+Integrantes: Tomas Chacon
+Martin Ospina
+Cristian Caceres
