@@ -1,6 +1,6 @@
-## Wearable haptico de navegacion asistida
+# Wearable haptico de navegacion asistida
 
-# ProyectoTII-2026
+### ProyectoTII-2026
 
 Integrantes: Tomas Chacon
 Martin Ospina
